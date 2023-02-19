@@ -1,0 +1,26 @@
+body
+	{ background-color: rgb(50, 152, 235);
+    color: rgb(238, 241, 25);
+}
+
+header 
+    { color: rgb(244, 245, 248);
+}
+
+footer
+    { color: rgb(37, 38, 39);
+}
+
+div
+    { background-color: yellow;
+    color:blue;
+    width: 500px;
+    min-height: 250px;
+    margin: 0 auto
+}
+
+table
+    { background-color:crimson;
+        color:black;
+    width: 80%;
+}
